@@ -48,3 +48,14 @@ form button:hover {
   background-color: #d88771;
   color: white;
 }
+
+.todo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-list {
+  min-height: 30%;
+  list-style: none;
+}
